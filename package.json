@@ -1,0 +1,47 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "react and redux",
+  "main": "public/js/main.js",
+  "scripts": {
+      "compile" : "webpack",
+      "lint"    : "eslint assets/react/",
+      "test"    : "mocha --require babel-core/register assets/test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lwiacek-magari/redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "flux"
+  ],
+  "author": "Lukasz Wiacek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwiacek-magari/redux/issues"
+  },
+  "homepage": "https://github.com/lwiacek-magari/redux",
+  "dependencies": {
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-stage-0": "*",
+    "babel-preset-stage-2": "*",
+    "babel-preset-react": "*",
+    "babel-polyfill": "*",
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-runtime": "*",
+    "eslint": "*",
+    "sinon": "*",
+    "chai": "*",
+    "mocha": "*",
+    "deep-freeze": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "*",
+    "redux": "*",
+    "webpack": "*"
+  }
+}
