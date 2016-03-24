@@ -1,0 +1,2091 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"visi",
+				"visibilityFilter"
+			],
+			[
+				"show_",
+				"SHOW_COMPLETED"
+			],
+			[
+				"S",
+				"SHOW_ACTIVE"
+			],
+			[
+				"todo",
+				"todoApp"
+			],
+			[
+				"vi",
+				"visibilityFilter"
+			],
+			[
+				"list",
+				"listener"
+			],
+			[
+				"lis",
+				"listener"
+			],
+			[
+				"liste",
+				"listeners"
+			],
+			[
+				"Co",
+				"Collection"
+			],
+			[
+				"Manufacture",
+				"ManufacturerNotFoundException"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"newI",
+				"newInputCollection"
+			],
+			[
+				"se",
+				"section-header--sidebar"
+			],
+			[
+				"V",
+				"VehicleSubCollection"
+			],
+			[
+				"su",
+				"submitCountryFilter"
+			],
+			[
+				"get",
+				"getComputedStyle"
+			],
+			[
+				"xml",
+				"xmlDataParser"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"rout",
+				"routeName"
+			],
+			[
+				"inp",
+				"filterInputCollectionByType"
+			],
+			[
+				"in",
+				"inputCollectionByType"
+			],
+			[
+				"inputCo",
+				"filterInputCollectionByType"
+			],
+			[
+				"low",
+				"lowQualityInputCollection"
+			],
+			[
+				"high",
+				"highQualityInputCollection"
+			],
+			[
+				"check",
+				"checkedInputValues"
+			],
+			[
+				"k",
+				"keysToUpdate"
+			],
+			[
+				"m",
+				"data-mquality"
+			],
+			[
+				"qu",
+				"quality"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"getSid",
+				"getSidebarFilterVariantNode"
+			],
+			[
+				"getS",
+				"getSidebarFilterVariantNode"
+			],
+			[
+				"pa",
+				"parentNode"
+			],
+			[
+				"Fo",
+				"FormatBuilder"
+			],
+			[
+				"moda",
+				"modalView"
+			],
+			[
+				"render",
+				"renderModalView"
+			],
+			[
+				"input",
+				"inputElement"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"el",
+				"elFilter"
+			],
+			[
+				"che",
+				"checkedValues"
+			],
+			[
+				"man",
+				"manufacturer"
+			],
+			[
+				"li",
+				"limitFilterList"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"fetch",
+				"fetchVehicleModelCollection"
+			],
+			[
+				"p",
+				"prepareSingleView"
+			],
+			[
+				"fe",
+				"fetchVehicleModelCollection"
+			],
+			[
+				"ve",
+				"vehicle-series"
+			],
+			[
+				"w",
+				"withArgs"
+			],
+			[
+				"fet",
+				"fetchVehicleSeriesCollection"
+			],
+			[
+				"dis",
+				"disableVehicleModelCollectionView"
+			],
+			[
+				"to",
+				"toggleView"
+			],
+			[
+				"hide",
+				"hide"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"sho",
+				"shopFeedbackValues"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"Vehicle",
+				"vehicleManufacturer"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"getVehicle",
+				"getVehicleManufacturer"
+			],
+			[
+				"vehi",
+				"vehicleIdentification"
+			],
+			[
+				"hasV",
+				"hasVehicleSeries"
+			],
+			[
+				"hasVe",
+				"hasVehicleManufacturer"
+			],
+			[
+				"has",
+				"hasVehicleManufacturer"
+			],
+			[
+				"getV",
+				"getVehicleManufacturer"
+			],
+			[
+				"isVehi",
+				"isVehicleManufacturer"
+			],
+			[
+				"font-size",
+				"font-size-huge"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"M",
+				"Manufacturer"
+			],
+			[
+				"Veh",
+				"VehicleSeriesCollection"
+			],
+			[
+				"VehicleMode",
+				"VehicleModelCollection"
+			],
+			[
+				"Ve",
+				"VehicleModelCollection"
+			],
+			[
+				"veh",
+				"vehicleIdentification"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"Shop",
+				"ShopFeedback"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"compareNumber_1"
+			],
+			[
+				"A",
+				"ArticleCompareNumbers"
+			],
+			[
+				"com",
+				"compareNumber_1"
+			],
+			[
+				"font-si",
+				"font-size-big"
+			],
+			[
+				"font-s",
+				"font-size-big"
+			],
+			[
+				"te",
+				"teaser"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"doc",
+				"doc-css	css-docblock"
+			],
+			[
+				"base",
+				"base64ImageFilter"
+			],
+			[
+				"manufacturerLogo",
+				"manufacturerLogoFilter"
+			],
+			[
+				"templ",
+				"templateId"
+			],
+			[
+				"tert",
+				"tertiary-color-button--active"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"pri",
+				"primary-color-button--active"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"and",
+				"andCallThrough"
+			],
+			[
+				"ren",
+				"renderSingle"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"valdate",
+				"validateHsnTsn"
+			],
+			[
+				"va",
+				"validateHsnTsn"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"url",
+				"urlRoot"
+			],
+			[
+				"init",
+				"initArray"
+			],
+			[
+				"getArticleFr",
+				"getArticleFromAtp"
+			],
+			[
+				"calculate",
+				"calculateRatingsByPosition"
+			],
+			[
+				"image",
+				"imageRatingShopIds"
+			],
+			[
+				"__",
+				"__savings"
+			],
+			[
+				"leader",
+				"leaderboardView"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"togg",
+				"toggleView"
+			],
+			[
+				"font",
+				"font-size-big"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"cluster",
+				"clusterResponse"
+			],
+			[
+				"resp",
+				"responseXmlObj"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"emty",
+				"empty"
+			],
+			[
+				"cre",
+				"createVehicleKbaById"
+			],
+			[
+				"Iden",
+				"IdentificationAbstract"
+			],
+			[
+				"requ",
+				"requestStack"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"art",
+				"articleDescription"
+			],
+			[
+				"trans",
+				"transform-origin"
+			],
+			[
+				"ads",
+				"ads-visibility"
+			],
+			[
+				"disabled",
+				"disabledOption"
+			],
+			[
+				"vehic",
+				"vehicleManufacturersView"
+			],
+			[
+				"vehicle",
+				"vehicle-manufacturer"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addButton"
+			],
+			[
+				"eb",
+				"ebayResults"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/react/index.js",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/react/components/App.js",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/react/containers/VisibleTodoList.js",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/react/containers/FilterLink.js",
+			"settings":
+			{
+				"buffer_size": 950,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lwiacek/www/redux",
+		"/Users/lwiacek/www/redux/assets",
+		"/Users/lwiacek/www/redux/assets/react",
+		"/Users/lwiacek/www/redux/assets/react/components",
+		"/Users/lwiacek/www/redux/assets/react/containers",
+		"/Users/lwiacek/www/redux/assets/test/reducers"
+	],
+	"file_history":
+	[
+		"/Users/lwiacek/www/redux/webpack.config.js",
+		"/Users/lwiacek/www/redux/index.html",
+		"/Users/lwiacek/www/redux/package.json",
+		"/Users/lwiacek/www/redux/.gitignore",
+		"/Users/lwiacek/www/redux/.eslintrc",
+		"/Users/lwiacek/www/redux/assets/test/reducers/todos.test.js",
+		"/Users/lwiacek/www/redux/.babelrc",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/App.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/containers/VisibleTodoList.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/Footer.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/containers/AddTodo.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/containers/FilterLink.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/index.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/reducers/index.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/AddTodo.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/TodoApp.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/Link.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/TodoList.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/Todo.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/FilterLink.js",
+		"/Users/lwiacek/www/daparto/symfony/webpack.config.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/reducers/todos.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/reducers/visibility-filter.js",
+		"/Users/lwiacek/www/daparto/application/models/Dao/Shop.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Shop.php",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Entity/Shop.php",
+		"/Users/lwiacek/www/daparto/application/forms/Invoice.php",
+		"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations/Version20160323144745.php",
+		"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations/Version20160323091034.php",
+		"/Users/lwiacek/www/daparto/application/modules/admin/controllers/MasterdataController.php",
+		"/Users/lwiacek/www/daparto/application/forms/Payment.php",
+		"/Users/lwiacek/www/daparto/application/modules/admin/controllers/PaymentmethodController.php",
+		"/Users/lwiacek/www/daparto/application/forms/Shop/Masterdata.php",
+		"/Users/lwiacek/www/daparto/application/forms/Login.php",
+		"/Users/lwiacek/www/daparto/symfony/app/config/config.yml",
+		"/Users/lwiacek/www/daparto/symfony/app/config/mail",
+		"/Users/lwiacek/www/daparto/application/views/daparto/admin/paymentmethod/index.phtml",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Entity/Article.php",
+		"/Users/lwiacek/www/daparto/application/forms/Order/Filter.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/Date/Interval.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/Date.php",
+		"/Users/lwiacek/www/daparto/application/forms/Date.php",
+		"/Users/lwiacek/www/daparto/application/forms/Shop/CpoSchedule.php",
+		"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations/Version20140624145124.php",
+		"/Users/lwiacek/www/daparto/application/forms/Shop.php",
+		"/Users/lwiacek/www/daparto/application/views/daparto/admin/masterdata/index.phtml",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/todo.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/init.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper/user-agent.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/test/run.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/Counter.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/reducers/visibility.js",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/test/reducers/todos.test.js",
+		"/Users/lwiacek/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper/includes-polyfill.js",
+		"/Users/lwiacek/www/daparto/library/Daparto/Form/Abstract.php",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper/polyfills.js",
+		"/Users/lwiacek/www/daparto/puppet/templates/etc/nginx/rewrite.d/zend.conf.erb",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/portlet/header.phtml",
+		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/views/_Layout/Main/header.html.twig",
+		"/Users/lwiacek/www/daparto/public/.htaccess",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/order/show/shop-articles.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/tracking-scripts/sellaround.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/admin/index/index-shop.phtml",
+		"/Users/lwiacek/www/daparto/tests/Acceptance/admin/MasterdataTest.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Product/Interface.php",
+		"/Users/lwiacek/www/daparto/scripts/cli/upload/cleanup-upload.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/View/Helper/TrackCpc.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/View/Helper/RetargetMedia.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/Controller/Request.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/Controller/Plugin/CommonObjectsBootstrap.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/Acl.php",
+		"/Users/lwiacek/www/daparto/tests/application/services/ShippingTest.php",
+		"/Users/lwiacek/www/daparto/tests/library/Daparto/View/Helper/RetargetMediaTest.php",
+		"/Users/lwiacek/www/daparto/tests/Fixtures/Shop/shop.yml",
+		"/Users/lwiacek/www/daparto/tests/application/services/FeeStatisticTest.php",
+		"/Users/lwiacek/www/daparto/tests/application/models/Bo/Order/ShopNmCollectionTest.php",
+		"/Users/lwiacek/www/daparto/tests/application/services/SearchTest.php",
+		"/Users/lwiacek/www/daparto/application/services/Search.php",
+		"/Users/lwiacek/www/daparto/application/services/FeeStatistic.php",
+		"/Users/lwiacek/www/daparto/application/services/Shipping.php",
+		"/Users/lwiacek/www/daparto/application/dtos/FeeStatistic/Interval/TyreArticleCalculate.php",
+		"/Users/lwiacek/www/daparto/application/services/Navigation.php",
+		"/Users/lwiacek/www/daparto/application/config/routes.php",
+		"/Users/lwiacek/www/daparto/application/models/Dao/Manufacturer.php",
+		"/Users/lwiacek/www/daparto/application/models/Dao/Article.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Upload/QueueEntry.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Upload/ScheduledSingular.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/ShopCollection.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Delivery.php",
+		"/Users/lwiacek/www/daparto/application/models/Bo/Upload/ScheduledInterface.php",
+		"/Users/lwiacek/www/daparto/application/modules/default/controllers/SearchController.php",
+		"/Users/lwiacek/www/daparto/application/modules/admin/controllers/UploadController.php",
+		"/Users/lwiacek/www/daparto/application/modules/admin/controllers/IndexController.php",
+		"/Users/lwiacek/www/daparto/application/modules/default/controllers/SearchPortletController.php",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/tracking-scripts/google-adwords-conversion-cpc.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search-portlet/headline.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/admin/upload/index.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-typein-category-typein.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-typein-category-specified.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-typein-category-pulldown.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-typein-category-none.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-specified-category-typein.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-specified-category-pulldown.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-specified-category-none.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-pulldown-category-typein.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-pulldown-category-specified.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-pulldown-category-pulldown.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-pulldown-category-none.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-typein.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-specified.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-pulldown.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-none.phtml",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/part-with-comparable-parts.phtml",
+		"/Users/lwiacek/www/daparto/scripts/phing/build/externals/merge_css_js.xml",
+		"/Users/lwiacek/www/daparto/public/static/js/modules/views/daparto/admin/index/index-shop.js",
+		"/Users/lwiacek/www/daparto/application/modules/default/controllers/TyreController.php",
+		"/Users/lwiacek/www/daparto/library/Daparto/View/Helper/Seasons.php",
+		"/Users/lwiacek/www/daparto/application/views/daparto/default/tyre/index.phtml",
+		"/Users/lwiacek/www/daparto/public/static/css/modernizr/daparto/main.css",
+		"/Users/lwiacek/www/daparto/public/static/css/layouts/daparto/sprite.css",
+		"/Users/lwiacek/www/daparto/application/layouts/static/css/local/daparto/main.phtml",
+		"/Users/lwiacek/www/daparto/public/static/css/views/daparto/default/search-portlet/ad-tire.css",
+		"/Users/lwiacek/www/daparto/application/layouts/static/js/local/daparto/plain.phtml",
+		"/Users/lwiacek/www/daparto/application/layouts/static/js/local/daparto/main.phtml",
+		"/Users/lwiacek/www/daparto/public/static/css/views/daparto/default/tyre/search-articles.css",
+		"/Users/lwiacek/www/daparto/public/static/js/modules/views/daparto/default/tyre/index.js",
+		"/Users/lwiacek/www/daparto/application/layouts/static/css/local/daparto/plain.phtml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Entity",
+			"/Users/lwiacek/www/daparto/application/forms",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/forms",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Entity",
+			"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application",
+			"/Users/lwiacek/www/daparto/library",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/scripts",
+			"/Users/lwiacek/www/daparto/tests",
+			"/Users/lwiacek/www/daparto/tests/Acceptance",
+			"/Users/lwiacek/www/daparto/application",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application",
+			"/Users/lwiacek/www/daparto/application/languages",
+			"/Users/lwiacek/www/daparto/application/forms",
+			"/Users/lwiacek/www/daparto/application/models",
+			"/Users/lwiacek/www/daparto/application/modules",
+			"/Users/lwiacek/www/daparto/application/modules/admin",
+			"/Users/lwiacek/www/daparto/tests",
+			"/Users/lwiacek/www/daparto/application/views",
+			"/Users/lwiacek/www/daparto/application/views/daparto/general",
+			"/Users/lwiacek/www/daparto/application/views/daparto/default",
+			"/Users/lwiacek/www/daparto/application/views/daparto/admin",
+			"/Users/lwiacek/www/daparto/application/views/daparto/default",
+			"/Users/lwiacek/www/daparto/application/views/daparto/admin",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/scripts",
+			"/Users/lwiacek/www/daparto/public",
+			"/Users/lwiacek/www/daparto/public/static",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/public/static/css",
+			"/Users/lwiacek/www/daparto/public/static/css/views/daparto/admin",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/layouts",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/layouts",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/public/static/css",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Entity",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/services/Upload",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/sass",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Fixture",
+			"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/sass",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/views",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/sass",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Controller",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Fixture",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Fixture",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/modules/admin/controllers/IndexController.php",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/modules/admin/controllers",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/application/views/daparto/admin",
+			"/Users/lwiacek/www/daparto/application/forms",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/tests",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/tests",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/views",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/views",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/puppet",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle",
+			"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Fixture/Controller/SearchController",
+			"/Users/lwiacek/www/daparto",
+			"/Users/lwiacek/www/daparto/symfony/app/DoctrineMigrations",
+			"/Users/lwiacek/www/daparto"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"store={store} ",
+			"Dependencies",
+			"dependencies",
+			"this.props.store",
+			"this.props.",
+			"TodoList",
+			"this.props.",
+			"{store}",
+			"container",
+			"onClick={onFilterClick}",
+			"FilterLink",
+			"todos",
+			"store={store}",
+			"this.",
+			"todo.",
+			"this.props.",
+			"false",
+			"string",
+			"invoiceBankDueDay",
+			"string",
+			"invoiceBankMandateReference",
+			"invoiceBankCreditorId",
+			"invoiceBankNumber",
+			"InvoiceBankNumber",
+			"invoiceBankNumber",
+			"InvoiceBankNumber",
+			"invoiceBankNumber",
+			"invoiceBankAccountNumber",
+			"InvoiceBankAccountNumber",
+			"invoiceBankAccountNumber",
+			"InvoiceBankAccountNumber",
+			"invoiceBankAccountNumber",
+			"=> '",
+			"_number",
+			"invoiceBankMandateReference",
+			"InvoiceBankMandateReference",
+			"invoiceBankMandateReference",
+			"invoiceBankCreditorId",
+			"integer",
+			"invoiceBankNumber",
+			"InvoiceBankNumber",
+			"invoiceBankNumber",
+			"InvoiceBankNumber",
+			"invoiceBankNumber",
+			"invoiceBankAccountNumber",
+			"InvoiceBankAccountNumber",
+			"invoiceBankAccountNumber",
+			"InvoiceBankAccountNumber",
+			"invoiceBankAccountNumber",
+			"nullable",
+			"nullabel",
+			"asdf",
+			"cancel",
+			"sendNoSpecifiedKbaParam",
+			"invoiceBank_name",
+			"invoiceBank_number",
+			"invoiceBank_bic",
+			"invoiceBank_iban",
+			"invoiceBankbic",
+			"invoice_bank_",
+			"invoice_bank_account_number",
+			"invoice_bank_recipient",
+			"BankBan",
+			"invoice",
+			"invoice_bank_",
+			"mixed",
+			"'in",
+			"'",
+			"        $schema\n            ->getTable('shop')\n",
+			"representative_salutation",
+			"invoiceBic",
+			"$this->addElement(\n            'text',",
+			"populateFromShop",
+			"->populate",
+			"'text',\n            '",
+			"$paymentForm",
+			"paymentForm",
+			"$paymentForm",
+			"cs-",
+			"cs_",
+			"Datetime",
+			"dateForm",
+			"Form_Date",
+			"chargeAteElement",
+			"chargeDateForm",
+			"chargeAteElement",
+			"chargeDateForm",
+			"$element",
+			"Element",
+			"element",
+			"Element",
+			"element",
+			"firstChargedAt",
+			"dateForm",
+			"Form_Date",
+			"class Zend_Date",
+			"class Daparto_Date",
+			"INVOICE_DATE",
+			"class Daparto_Date",
+			"Daparto_Date",
+			"Daparto_Controller_Request",
+			"firstChargedAt",
+			"getElement",
+			"dateOptions",
+			"date",
+			"regRespPerson",
+			"RegRespPerson",
+			"regRespPerson",
+			"reg",
+			"protcted",
+			"=> '",
+			"regRespPersonSalutation",
+			"marketAnalysis",
+			"competitionStats",
+			"setupFeeAt",
+			"setupFee",
+			"firstChargedAt",
+			"monthlyCharge",
+			"    ",
+			"',",
+			"''                            => ",
+			"\\",
+			"marketAnalysis",
+			"competitionStats",
+			"setup_feeAt",
+			"setupFee",
+			"firstChargedAt",
+			"monthlyCharge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{\n\n    el() {",
+			") {\n",
+			"{\n",
+			"",
+			"this.listenToOnce(",
+			"    }\n}",
+			"",
+			"checkedInputValues",
+			".to.be.false",
+			".to.be.true",
+			"to.be.false",
+			"to.be.true",
+			"import $1 from $2;",
+			"import $1 from $2;\n",
+			"import $0 from $1;\n",
+			",\n",
+			"\"/Shop/<?= $cartArticle->getArticle()->getShop()->getSeoTitle() ?>\"",
+			"$0,",
+			"$0",
+			"'filter'",
+			"it('$1', function() {",
+			"expect(this.view.$1).toEqual($2);",
+			"expect(this.view.$1).toHaveBeenCalled($2);",
+			"expect(this.view.$1).toHaveBeenCalled();",
+			"it('$1', function() {",
+			"expect(this.$1).toEqual($2);",
+			"expect(this.$1).not.toHaveBeenCalled();",
+			"expect(this.$1).toHaveBeenCalled();",
+			"expect($1).toHaveBeenCalled();",
+			"it('$1', function() {",
+			"it($1, function() {",
+			"expect(this.view.$el.$1).toEqual($2);",
+			"it($1, function() {",
+			"$1() {",
+			"expect(this.view.$1).toHaveBeenCalled();",
+			"it($1, function() {",
+			"../../../../../helper/views/",
+			"helper/views",
+			"_snippets",
+			"it($1), function() {",
+			"it($0), function() {",
+			"if($0), function() {",
+			"$1 {",
+			"($1) {",
+			"expect(this.view.$1).toHaveBeenCalled();",
+			"expect(this.view.$1).toHaveBeenCalledWith$2;",
+			"$1\\('$2', function() {",
+			"$1\\($2, function() {",
+			"$1($2, function() {",
+			"$1() {",
+			"expect(this.view.$1).toHaveBeenCalledWith$2;",
+			"spyOn(this.view, $1);",
+			"it($1, function() {",
+			"{Object}",
+			"{Array}",
+			"{String}",
+			"$1$2 {",
+			"$1($2) {",
+			"$1() {",
+			"expect(this.view.$1).toEqual($2);",
+			"describe($1, function() {",
+			"it($1, function() {",
+			".buildUrl()",
+			"buildUrl",
+			"'",
+			"tsn = $1",
+			"hsn = $1",
+			"array\\($1,$2\\)",
+			"array\\($1,$2\\)\\",
+			"array\\($1,$2\\)\\,",
+			"\\a\\r\\r\\a\\y\\($1,$2\\)\\,",
+			"\\($1,$2\\)\\,",
+			"\\(($1),($2)\\)\\,",
+			"\\((\\d+),(\\d+)\\)\\,",
+			"#privacy",
+			"{% endblock %}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/react/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/react/components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/react/containers/VisibleTodoList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/react/containers/FilterLink.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/lwiacek/www/redux.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"paymentmethodc",
+				"zend/application/modules/admin/controllers/PaymentmethodController.php"
+			],
+			[
+				"form/abstract",
+				"zend/library/Daparto/Form/Abstract.php"
+			],
+			[
+				"masterdate",
+				"zend/tests/Acceptance/admin/MasterdataTest.php"
+			],
+			[
+				"_index",
+				"symfony :: daparto/Resources/assets/sass/views/Article/_index.scss"
+			],
+			[
+				"searchcontroller.php",
+				"zend/application/modules/default/controllers/SearchController.php"
+			],
+			[
+				"searchcontroller",
+				"symfony :: daparto/Controller/SearchController.php"
+			],
+			[
+				"articleacceptancetest",
+				"symfony :: daparto/Tests/Acceptance/ArticleAcceptanceTest.php"
+			],
+			[
+				"part",
+				"zend/application/models/Bo/Part.php"
+			],
+			[
+				"order-info",
+				"symfony :: daparto/Resources/assets/sass/components/_order-info.scss"
+			],
+			[
+				"article.twig",
+				"symfony :: daparto/Resources/views/Article/index.html.twig"
+			],
+			[
+				"searchcontrollertest",
+				"symfony :: daparto/Tests/Controller/SearchControllerTest.php"
+			],
+			[
+				"filtersextension",
+				"symfony :: daparto/Twig/FiltersExtension.php"
+			],
+			[
+				"filtersextensiontest",
+				"symfony :: daparto/Tests/Twig/FiltersExtensionTest.php"
+			],
+			[
+				"cpotest",
+				"symfony :: daparto/Tests/Service/Serializer/ArticleToArray/CpoTest.php"
+			],
+			[
+				"cpctest",
+				"symfony :: daparto/Tests/Service/Serializer/ArticleToArray/CpcTest.php"
+			],
+			[
+				"articlecontrollertest",
+				"symfony :: daparto/Tests/Controller/ArticleControllerTest.php"
+			],
+			[
+				"array",
+				"symfony :: daparto/Service/Serializer/ArticleToArray/ArticleToArray.php"
+			],
+			[
+				"filterext",
+				"symfony :: daparto/Tests/Twig/FiltersExtensionTest.php"
+			],
+			[
+				"vehicletest",
+				"symfony :: daparto/Tests/Resources/views/_Snippets/VehicleTest.php"
+			],
+			[
+				"_article-offers.sc",
+				"symfony :: daparto/Resources/assets/sass/components/_article-offers.scss"
+			],
+			[
+				"_article-offers.scss",
+				"symfony :: daparto/Resources/assets/sass/components/_article-offers.scss"
+			],
+			[
+				"main.scss",
+				"symfony :: daparto/Resources/assets/sass/main.scss"
+			],
+			[
+				"_article-offers",
+				"symfony :: daparto/Resources/assets/sass/components/_article-offers.scss"
+			],
+			[
+				"results.scss",
+				"symfony :: daparto/Resources/assets/sass/views/_Snippets/Results/_results.scss"
+			],
+			[
+				"results.sc",
+				"symfony :: daparto/Resources/assets/sass/views/_Snippets/Results/_results.scss"
+			],
+			[
+				"_results",
+				"symfony :: daparto/Resources/assets/scripts/views/search/_results/collection.js"
+			],
+			[
+				"shopacceptancetest",
+				"symfony :: daparto/Tests/Acceptance/ShopAcceptanceTest.php"
+			],
+			[
+				"simplesortform.php",
+				"symfony :: daparto/Form/SimpleSortForm.php"
+			],
+			[
+				"arti/index",
+				"symfony :: daparto/Resources/views/Article/index.html.twig"
+			],
+			[
+				"article-offers",
+				"symfony :: daparto/Resources/assets/sass/components/_article-offers.scss"
+			],
+			[
+				"articledescription.html.twig",
+				"symfony :: daparto/Resources/views/_Snippets/articleDescription.html.twig"
+			],
+			[
+				"_article-list-item",
+				"symfony :: daparto/Resources/assets/sass/helper/_article-list-item.scss"
+			],
+			[
+				"single-offer",
+				"zend/application/views/daparto/default/search/part/single-offer.phtml"
+			],
+			[
+				"aggregate-offer",
+				"zend/application/views/daparto/default/search/part/aggregate-offer.phtml"
+			],
+			[
+				"fallbackshopdescription.html.twig",
+				"symfony :: daparto/Resources/views/_Snippets/ArticleDescription/fallbackShopDescription.html.twig"
+			],
+			[
+				"tecdocattributesdescription.html.twig",
+				"symfony :: daparto/Resources/views/_Snippets/ArticleDescription/tecdocAttributesDescription.html.twig"
+			],
+			[
+				"canonicaltag",
+				"symfony :: daparto/Service/Seo/CanonicalTag.php"
+			],
+			[
+				"sparepartconverter",
+				"symfony :: daparto/Component/Request/ParamConverter/SparePartConverter.php"
+			],
+			[
+				"searchcon",
+				"symfony :: daparto/Controller/SearchController.php"
+			],
+			[
+				"manufacturerrep",
+				"symfony :: daparto/Entity/Repository/ManufacturerRepository.php"
+			],
+			[
+				"sparepartconv",
+				"symfony :: daparto/Component/Request/ParamConverter/SparePartConverter.php"
+			],
+			[
+				"symfony/seo/url",
+				"symfony :: daparto/Service/Seo/Url.php"
+			],
+			[
+				"seourl",
+				"symfony/src/Magari/Daparto/Bundle/WebBundle/Service/Seo/Url.php"
+			],
+			[
+				"contro/statisticcontroller",
+				"zend/application/modules/admin/controllers/StatisticController.php"
+			],
+			[
+				"statisticcontroller",
+				"zend/application/modules/admin/controllers/StatisticController.php"
+			],
+			[
+				"dao/tracks",
+				"zend/application/models/Dao/TrackSearch.php"
+			],
+			[
+				"tracksearch.php",
+				"zend/application/models/Bo/TrackSearch.php"
+			],
+			[
+				"cart-link.phtml",
+				"zend/application/views/daparto/general/header/cart-link.phtml"
+			],
+			[
+				"commonobjectsbootstrap",
+				"zend/library/Daparto/Controller/Plugin/CommonObjectsBootstrap.php"
+			],
+			[
+				"fees",
+				"zend/application/services/FeeStatistic.php"
+			],
+			[
+				"feesta",
+				"zend/application/services/FeeStatistic.php"
+			],
+			[
+				"cpc",
+				"zend/application/models/Dao/Cpc.php"
+			],
+			[
+				"phpunit_allwithoutacceptance",
+				"zend/tests/phpunit_allWithoutAcceptance.xml"
+			],
+			[
+				"feestatistic",
+				"zend/application/services/FeeStatistic.php"
+			],
+			[
+				"feestatistictest",
+				"zend/tests/application/services/FeeStatisticTest.php"
+			],
+			[
+				"views/modal-filter/modal.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/modal-filter/modal.js"
+			],
+			[
+				"exceptionlistener",
+				"symfony/src/Magari/Daparto/Bundle/WebBundle/EventListener/ExceptionListener.php"
+			],
+			[
+				"servic",
+				"symfony :: daparto/Resources/config/services.yml"
+			],
+			[
+				"cluster/spare-part.html.twig",
+				"symfony :: daparto/Resources/views/_Snippets/Cluster/spare-part.html.twig"
+			],
+			[
+				"views/_snippets/best-offers/model.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/best-offers/model.js"
+			],
+			[
+				"/scripts/views/_abstract-view.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_abstract-view.js"
+			],
+			[
+				"scripts/models/vehicle/kba.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/kba.js"
+			],
+			[
+				"assets/scripts/models/vehicle/kba.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/kba.js"
+			],
+			[
+				"/scripts/helper/views/toggle.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/toggle.js"
+			],
+			[
+				"scripts/helper/views/template.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/template.js"
+			],
+			[
+				"helper/views/show-and-hide.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/show-and-hide.js"
+			],
+			[
+				"scripts/helper/views/select.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/select.js"
+			],
+			[
+				"helper/views/modal-filter/modal.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/modal-filter/modal.js"
+			],
+			[
+				"views/modal-filter/index.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/modal-filter/index.js"
+			],
+			[
+				"helper/views/limited-list.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/limited-list.js"
+			],
+			[
+				"views/details-polyfil.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/details-polyfil.js"
+			],
+			[
+				"helper/media-detector.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/media-detector.js"
+			],
+			[
+				"helper/user-agent.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/user-agent.js"
+			],
+			[
+				"helper/fetch/fetch-vehicle.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/fetch/fetch-vehicle.js"
+			],
+			[
+				"helper/views/event-tracking.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/event-tracking.js"
+			],
+			[
+				"manufacturer-filter.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/filter/sidebar-filter/manufacturer-filter.js"
+			],
+			[
+				"sidebar-filter/quality-type-filter.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/filter/sidebar-filter/quality-type-filter.js"
+			],
+			[
+				"quality-type-filter.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/filter/sidebar-filter/quality-type-filter.js"
+			],
+			[
+				"_snippets/rating/detail/model.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/rating/detail/model.js"
+			],
+			[
+				"rating/live/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/rating/live/index.js"
+			],
+			[
+				"vehicle/catalog/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/catalog/index.js"
+			],
+			[
+				"manufacturer/collection.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/catalog/manufacturer/collection.js"
+			],
+			[
+				"catalog/model/collection.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/catalog/model/collection.js"
+			],
+			[
+				"catalog/series/collection.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/catalog/series/collection.js"
+			],
+			[
+				"vehicle/kba/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/kba/index.js"
+			],
+			[
+				"_list-fetch/collection.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/_list-fetch/collection.js"
+			],
+			[
+				"index/compatible-vehicles/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/compatible-vehicles/index.js"
+			],
+			[
+				"vehicle-manufacturer-and-category/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-manufacturer-and-category/index.js"
+			],
+			[
+				"search/vehicle-manufacturer-and-category/vehicle-model-chooser.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-manufacturer-and-category/vehicle-model-chooser.js"
+			],
+			[
+				"search/vehicle-model-and-category/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-model-and-category/index.js"
+			],
+			[
+				"vehicle-model-and-category/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-model-and-category/index.js"
+			],
+			[
+				"vehicle-series-and-category/vehicle-model-chooser.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-series-and-category/vehicle-model-chooser.js"
+			],
+			[
+				"vehicle-model-chooser.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-manufacturer-and-category/vehicle-model-chooser.js"
+			],
+			[
+				"shop/show.js",
+				"symfony :: daparto/Resources/assets/scripts/views/shop/show.js"
+			],
+			[
+				"collections/_abstract-collection.js",
+				"symfony :: daparto/Resources/assets/scripts/collections/_abstract-collection.js"
+			],
+			[
+				"iews/details-polyfil.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/details-polyfil.js"
+			],
+			[
+				"/models/_abstract-model.js",
+				"symfony :: daparto/Resources/assets/scripts/models/_abstract-model.js"
+			],
+			[
+				"vehicle/manufacturer.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/manufacturer.js"
+			],
+			[
+				"models/vehicle/series.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/series.js"
+			],
+			[
+				"_abstract-view.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_abstract-view.js"
+			],
+			[
+				"vehicle/series.js",
+				"symfony :: daparto/Resources/assets/scripts/collections/vehicle/series.js"
+			],
+			[
+				"compare-numbers/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/compare-numbers/index.js"
+			],
+			[
+				"vehicle-series-and-category/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/vehicle-series-and-category/index.js"
+			],
+			[
+				"article/index/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/index.js"
+			],
+			[
+				"_results/collection.js",
+				"symfony :: daparto/Resources/assets/scripts/views/search/_results/collection.js"
+			],
+			[
+				"views/event-tracking.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/event-tracking.js"
+			],
+			[
+				"fetch-by-spare-part.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/fetch/fetch-by-spare-part.js"
+			],
+			[
+				"fetch/fetch-by-article.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/fetch/fetch-by-article.js"
+			],
+			[
+				"sidebar-filter/qu",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/filter/sidebar-filter/quality-type-filter.js"
+			],
+			[
+				"modal-filter/modal.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/modal-filter/modal.js"
+			],
+			[
+				"modal-filter/index.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/modal-filter/index.js"
+			],
+			[
+				"_snippets/vehicle/kba/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/kba/index.js"
+			],
+			[
+				"index/oe/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/oe/index.js"
+			],
+			[
+				"model/model.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/vehicle/catalog/model/model.js"
+			],
+			[
+				"views/shop/show.js",
+				"symfony :: daparto/Resources/assets/scripts/views/shop/show.js"
+			],
+			[
+				"scripts/helper/media-detector.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/media-detector.js"
+			],
+			[
+				"s/models/vehicle/kba.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/kba.js"
+			],
+			[
+				"models/vehicle/kba.js",
+				"symfony :: daparto/Resources/assets/scripts/models/vehicle/kba.js"
+			],
+			[
+				"views/_abstract-view.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_abstract-view.js"
+			],
+			[
+				"vehicle/model.js",
+				"symfony :: daparto/Resources/assets/scripts/collections/vehicle/model.js"
+			],
+			[
+				"views/select.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/select.js"
+			],
+			[
+				"views/show-and-hide.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/show-and-hide.js"
+			],
+			[
+				"sidebar-filter/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/filter/sidebar-filter/index.js"
+			],
+			[
+				"index/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/index.js"
+			],
+			[
+				"rating/detail/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/_snippets/rating/detail/index.js"
+			],
+			[
+				"models/filter.js",
+				"symfony :: daparto/Resources/assets/scripts/models/filter.js"
+			],
+			[
+				"oe/index.js",
+				"symfony :: daparto/Resources/assets/scripts/views/article/index/oe/index.js"
+			],
+			[
+				"details-polyfil.js",
+				"symfony :: daparto/Resources/assets/scripts/helper/views/details-polyfil.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/playground/testing/nodejs-mocha/nodejs-mocha.sublime-project"
+			],
+			[
+				"fuer",
+				"~/www/fw/fuerst-wiacek.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
