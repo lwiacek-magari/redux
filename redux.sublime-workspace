@@ -519,38 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "assets/react/index.js",
-			"settings":
-			{
-				"buffer_size": 325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/react/components/App.js",
-			"settings":
-			{
-				"buffer_size": 297,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/react/containers/VisibleTodoList.js",
-			"settings":
-			{
-				"buffer_size": 1083,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/react/containers/FilterLink.js",
-			"settings":
-			{
-				"buffer_size": 950,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -621,20 +589,29 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/lwiacek/www/redux",
-		"/Users/lwiacek/www/redux/assets",
-		"/Users/lwiacek/www/redux/assets/react",
-		"/Users/lwiacek/www/redux/assets/react/components",
-		"/Users/lwiacek/www/redux/assets/react/containers",
-		"/Users/lwiacek/www/redux/assets/test/reducers"
+		"/Users/lwiacek/www/redux"
 	],
 	"file_history":
 	[
-		"/Users/lwiacek/www/redux/webpack.config.js",
-		"/Users/lwiacek/www/redux/index.html",
 		"/Users/lwiacek/www/redux/package.json",
-		"/Users/lwiacek/www/redux/.gitignore",
 		"/Users/lwiacek/www/redux/.eslintrc",
+		"/Users/lwiacek/www/redux/webpack.config.js",
+		"/Users/lwiacek/www/redux/assets/react/components/Footer.js",
+		"/Users/lwiacek/www/redux/assets/react/components/Todo.js",
+		"/Users/lwiacek/www/redux/assets/react/components/TodoList.js",
+		"/Users/lwiacek/www/redux/assets/react/reducers/todos.js",
+		"/Users/lwiacek/www/redux/assets/react/containers/AddTodo.js",
+		"/Users/lwiacek/www/redux/assets/react/containers/FilterLink.js",
+		"/Users/lwiacek/www/redux/assets/react/components/Link.js",
+		"/Users/lwiacek/www/redux/assets/react/reducers/index.js",
+		"/Users/lwiacek/www/redux/assets/react/reducers/visibility-filter.js",
+		"/Users/lwiacek/www/redux/assets/react/containers/VisibleTodoList.js",
+		"/Users/lwiacek/www/redux/assets/react/components/App.js",
+		"/Users/lwiacek/www/redux/assets/react/index.js",
+		"/Users/lwiacek/www/redux.sublime-project",
+		"/Users/lwiacek/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lwiacek/www/redux/index.html",
+		"/Users/lwiacek/www/redux/.gitignore",
 		"/Users/lwiacek/www/redux/assets/test/reducers/todos.test.js",
 		"/Users/lwiacek/www/redux/.babelrc",
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/App.js",
@@ -683,7 +660,6 @@
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/components/Counter.js",
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/react/reducers/visibility.js",
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/test/reducers/todos.test.js",
-		"/Users/lwiacek/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper/includes-polyfill.js",
 		"/Users/lwiacek/www/daparto/library/Daparto/Form/Abstract.php",
 		"/Users/lwiacek/www/daparto/symfony/src/Magari/Daparto/Bundle/Webbundle/Resources/assets/scripts/helper/polyfills.js",
@@ -744,24 +720,11 @@
 		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-pulldown.phtml",
 		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/status/vehicle-none-category-none.phtml",
 		"/Users/lwiacek/www/daparto/application/views/daparto/default/search/part-with-comparable-parts.phtml",
-		"/Users/lwiacek/www/daparto/scripts/phing/build/externals/merge_css_js.xml",
-		"/Users/lwiacek/www/daparto/public/static/js/modules/views/daparto/admin/index/index-shop.js",
-		"/Users/lwiacek/www/daparto/application/modules/default/controllers/TyreController.php",
-		"/Users/lwiacek/www/daparto/library/Daparto/View/Helper/Seasons.php",
-		"/Users/lwiacek/www/daparto/application/views/daparto/default/tyre/index.phtml",
-		"/Users/lwiacek/www/daparto/public/static/css/modernizr/daparto/main.css",
-		"/Users/lwiacek/www/daparto/public/static/css/layouts/daparto/sprite.css",
-		"/Users/lwiacek/www/daparto/application/layouts/static/css/local/daparto/main.phtml",
-		"/Users/lwiacek/www/daparto/public/static/css/views/daparto/default/search-portlet/ad-tire.css",
-		"/Users/lwiacek/www/daparto/application/layouts/static/js/local/daparto/plain.phtml",
-		"/Users/lwiacek/www/daparto/application/layouts/static/js/local/daparto/main.phtml",
-		"/Users/lwiacek/www/daparto/public/static/css/views/daparto/default/tyre/search-articles.css",
-		"/Users/lwiacek/www/daparto/public/static/js/modules/views/daparto/default/tyre/index.js",
-		"/Users/lwiacek/www/daparto/application/layouts/static/css/local/daparto/plain.phtml"
+		"/Users/lwiacek/www/daparto/scripts/phing/build/externals/merge_css_js.xml"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -903,6 +866,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"4",
+			" store={store}",
 			"store={store} ",
 			"Dependencies",
 			"dependencies",
@@ -1028,9 +993,7 @@
 			"marketAnalysis",
 			"competitionStats",
 			"setup_feeAt",
-			"setupFee",
-			"firstChargedAt",
-			"monthlyCharge"
+			"setupFee"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1124,357 +1087,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "assets/react/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								210,
-								210
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/react/components/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 297,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "assets/react/containers/VisibleTodoList.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								341,
-								341
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/react/containers/FilterLink.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 950,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								439,
-								439
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],

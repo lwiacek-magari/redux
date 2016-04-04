@@ -34,6 +34,7 @@
     "babel-core": "*",
     "babel-runtime": "*",
     "eslint": "*",
+    "eslint-plugin-react": "*",
     "sinon": "*",
     "chai": "*",
     "mocha": "*",
